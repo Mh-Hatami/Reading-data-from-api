@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reading data from api", "Reading data from api\Reading data from api.csproj", "{7F3F106C-4E55-4660-9DAB-E15A9C05643F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F3F106C-4E55-4660-9DAB-E15A9C05643F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3F106C-4E55-4660-9DAB-E15A9C05643F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3F106C-4E55-4660-9DAB-E15A9C05643F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3F106C-4E55-4660-9DAB-E15A9C05643F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04273BA3-450A-40F9-BEFC-F3F5851861D1}
+	EndGlobalSection
+EndGlobal
